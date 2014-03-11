@@ -9,7 +9,6 @@
 
 using namespace std;
 
-
 const int N2=20000;
 int pb12(int ndiv)
 {
