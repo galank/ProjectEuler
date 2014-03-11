@@ -76,6 +76,7 @@ double pb24(int p)
   return sol;
 }
 
+
 int main()
 {
   int p=1e6;
