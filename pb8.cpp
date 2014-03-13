@@ -3,6 +3,7 @@
 
 using namespace std;
 
+
 int pb8(string str)
 {
   int size=str.size();
@@ -18,6 +19,7 @@ int pb8(string str)
   cout << "The maximum product is " << maxProd << endl;
   return maxProd;
 }
+
 
 int main()
 {
